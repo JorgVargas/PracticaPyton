@@ -1,8 +1,6 @@
-# Esto es un comentario de linea
+# Ejercicios de variables
 
-"""
-Esto es 
-un
-comentario
-de bloque
-"""
+mensaje = "Hola mundo esoy aprendiendo Python"
+
+print(mensaje)
+
